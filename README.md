@@ -1,0 +1,2 @@
+# AIInternAssignment
+AI internship Assignment
